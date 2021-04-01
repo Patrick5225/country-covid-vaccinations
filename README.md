@@ -7,3 +7,9 @@ For this particular project, our client is a vaccine manufacturer distributor wh
 
 # Basic Overview
 Coronavirus disease (COVID-19) is a contagious disease that has affected millions of people across many countries worldwide. To combat this disease, COVID-19 vaccines have been created and distributed to people living in different countries. However, the vaccines are currently in limited supply, and hence not every country has immediate access to the vaccines. The **question** to be solved is, which country should receive the next rollout of COVID-19 vaccinations, in a data-driven approach? This approach involves analyzing country vaccination data that contains information about the daily and total amount of COVID-19 vaccinations for COVID-19 (as of March 2021).
+
+# Data Used
+**Daily and Total COVID-19 Vaccinations by Country (as of March 2021):** https://www.kaggle.com/gpreda/covid-world-vaccination-progress</br>
+**Country Demographics:** https://ourworldindata.org/coronavirus</br>
+**Country Coordinates (latitude and longitude):** https://developers.google.com/public-data/docs/canonical/countries_csv</br>
+**Logistics Performance Index (LPI):** https://datacatalog.worldbank.org/dataset/logistics-performance-index</br>
