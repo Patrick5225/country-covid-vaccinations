@@ -1,169 +1,169 @@
 ﻿location,country_code,lpi_rank,lpi_score,lpi_score_ranked
-Afghanistan,AFG,160,1948565,1
-Albania,ALB,88,2659603,4
-Algeria,DZA,117,2448071,3
-Angola,AGO,159,2046158,1
-Argentina,ARG,61,2886984,5
-Armenia,ARM,92,2607607,3
-Australia,AUS,18,3751431,9
-Austria,AUT,4,4026005,10
+Afghanistan,AFG,160,"1,948,565",1
+Albania,ALB,88,"2,659,603",4
+Algeria,DZA,117,"2,448,071",3
+Angola,AGO,159,"2,046,158",1
+Argentina,ARG,61,"2,886,984",5
+Armenia,ARM,92,"2,607,607",3
+Australia,AUS,18,"3,751,431",9
+Austria,AUT,4,"4,026,005",10
 Azerbaijan,AZE,,,1
-Bahamas,BHS,112,2525412,3
-Bahrain,BHR,59,2934817,5
-Bangladesh,BGD,100,2576581,3
-Belarus,BLR,103,2574633,3
-Belgium,BEL,3,4039084,10
-Benin,BEN,76,2749889,4
-Bhutan,BTN,149,216898,1
-Bolivia,BOL,131,2358376,2
-Bosnia and Herzegovina,BIH,72,2808565,4
+Bahamas,BHS,112,"2,525,412",3
+Bahrain,BHR,59,"2,934,817",5
+Bangladesh,BGD,100,"2,576,581",3
+Belarus,BLR,103,"2,574,633",3
+Belgium,BEL,3,"4,039,084",10
+Benin,BEN,76,"2,749,889",4
+Bhutan,BTN,149,"216,898",1
+Bolivia,BOL,131,"2,358,376",2
+Bosnia and Herzegovina,BIH,72,"2,808,565",4
 Botswana,BWA,,,1
-Brazil,BRA,56,298579,5
-Brunei,BRN,80,2706557,4
-Bulgaria,BGR,52,3033965,5
-Burkina Faso,BFA,91,2621464,3
-Burundi,BDI,158,2063609,1
-Cambodia,KHM,98,2578608,3
-Cameroon,CMR,95,2595547,3
-Canada,CAN,20,3726715,8
-Central African Republic,CAF,151,2148357,1
-Chad,TCD,123,2417437,3
-Chile,CHL,34,3317145,7
-China,CHN,26,3605147,8
-Colombia,COL,58,3,5
-Comoros,COM,107,2557098,3
-Congo,COG,115,2485858,3
-Costa Rica,CRI,73,2791664,4
-Cote d'Ivoire,CIV,50,3082253,6
-Croatia,HRV,49,310409,6
-Cuba,CUB,146,2197159,2
-Cyprus,CYP,45,3150837,6
-Czechia,CZE,22,368033,8
-Democratic Republic of Congo,COD,120,2428379,3
-Denmark,DNK,8,3991859,10
-Djibouti,DJI,90,2634621,4
-Dominican Republic,DOM,87,2661765,4
-Ecuador,ECU,62,2881649,5
-Egypt,EGY,67,2824902,4
-El Salvador,SLV,101,2575521,3
-Equatorial Guinea,GNQ,136,2317643,2
-Eritrea,ERI,155,2087142,1
-Estonia,EST,36,3311613,7
+Brazil,BRA,56,"298,579",5
+Brunei,BRN,80,"2,706,557",4
+Bulgaria,BGR,52,"3,033,965",5
+Burkina Faso,BFA,91,"2,621,464",3
+Burundi,BDI,158,"2,063,609",1
+Cambodia,KHM,98,"2,578,608",3
+Cameroon,CMR,95,"2,595,547",3
+Canada,CAN,20,"3,726,715",8
+Central African Republic,CAF,151,"2,148,357",1
+Chad,TCD,123,"2,417,437",3
+Chile,CHL,34,"3,317,145",7
+China,CHN,26,"3,605,147",8
+Colombia,COL,58,2.9416,5
+Comoros,COM,107,"2,557,098",3
+Congo,COG,115,"2,485,858",3
+Costa Rica,CRI,73,"2,791,664",4
+Cote d'Ivoire,CIV,50,"3,082,253",6
+Croatia,HRV,49,"310,409",6
+Cuba,CUB,146,"2,197,159",2
+Cyprus,CYP,45,"3,150,837",6
+Czechia,CZE,22,"368,033",8
+Democratic Republic of Congo,COD,120,"2,428,379",3
+Denmark,DNK,8,"3,991,859",10
+Djibouti,DJI,90,"2,634,621",4
+Dominican Republic,DOM,87,"2,661,765",4
+Ecuador,ECU,62,"2,881,649",5
+Egypt,EGY,67,"2,824,902",4
+El Salvador,SLV,101,"2,575,521",3
+Equatorial Guinea,GNQ,136,"2,317,643",2
+Eritrea,ERI,155,"2,087,142",1
+Estonia,EST,36,"3,311,613",7
 Ethiopia,ETH,,,1
-Fiji,FJI,133,2351727,2
-Finland,FIN,10,3969148,9
-France,FRA,16,3844475,9
-Gabon,GAB,150,2161902,1
-Gambia,GMB,127,2401189,3
-Georgia,GEO,119,2442824,3
-Germany,DEU,1,4201444,10
-Ghana,GHA,106,2565348,3
-Greece,GRC,42,3204561,6
-Guatemala,GTM,125,2414617,3
-Guinea,GIN,145,2200858,2
-Guinea-Bissau,GNB,129,2387105,2
-Guyana,GUY,132,2358312,2
-Haiti,HTI,153,2112341,1
-Honduras,HND,93,2603918,3
-Hong Kong,HKG,12,3920067,9
-Hungary,HUN,31,3418764,7
-Iceland,ISL,40,3225014,6
-India,IND,44,3176569,6
-Indonesia,IDN,46,3150061,6
-Iran,IRN,64,2852721,5
-Iraq,IRQ,147,2176271,2
-Ireland,IRL,29,3510413,7
-Israel,ISR,37,3307796,7
-Italy,ITA,19,3739152,8
-Jamaica,JAM,113,2518664,3
-Japan,JPN,5,402565,10
-Jordan,JOR,84,2687973,4
-Kazakhstan,KAZ,71,2809936,4
-Kenya,KEN,68,2814935,4
-Kuwait,KWT,63,2861212,5
-Kyrgyzstan,KGZ,108,254609,3
-Laos,LAO,82,270029,4
-Latvia,LVA,70,2809949,4
-Lebanon,LBN,79,2716853,4
-Lesotho,LSO,139,2277266,2
-Liberia,LBR,143,2229198,2
-Libya,LBY,154,2106462,1
-Lithuania,LTU,54,3017524,5
-Luxembourg,LUX,24,3629998,8
-Madagascar,MDG,128,2389411,2
-Malawi,MWI,97,2585645,3
-Malaysia,MYS,41,3220886,6
-Maldives,MDV,86,2665471,4
-Mali,MLI,96,2590265,3
-Malta,MLT,69,2813784,4
-Mauritania,MRT,135,2331071,2
-Mauritius,MUS,78,2732952,4
-Mexico,MEX,51,3051375,5
-Moldova,MDA,116,2455908,3
-Mongolia,MNG,130,2373274,2
-Montenegro,MNE,77,2745632,4
-Morocco,MAR,109,2539661,3
+Fiji,FJI,133,"2,351,727",2
+Finland,FIN,10,"3,969,148",9
+France,FRA,16,"3,844,475",9
+Gabon,GAB,150,"2,161,902",1
+Gambia,GMB,127,"2,401,189",3
+Georgia,GEO,119,"2,442,824",3
+Germany,DEU,1,"4,201,444",10
+Ghana,GHA,106,"2,565,348",3
+Greece,GRC,42,"3,204,561",6
+Guatemala,GTM,125,"2,414,617",3
+Guinea,GIN,145,"2,200,858",2
+Guinea-Bissau,GNB,129,"2,387,105",2
+Guyana,GUY,132,"2,358,312",2
+Haiti,HTI,153,"2,112,341",1
+Honduras,HND,93,"2,603,918",3
+Hong Kong,HKG,12,"3,920,067",9
+Hungary,HUN,31,"3,418,764",7
+Iceland,ISL,40,"3,225,014",6
+India,IND,44,"3,176,569",6
+Indonesia,IDN,46,"3,150,061",6
+Iran,IRN,64,"2,852,721",5
+Iraq,IRQ,147,"2,176,271",2
+Ireland,IRL,29,"3,510,413",7
+Israel,ISR,37,"3,307,796",7
+Italy,ITA,19,"3,739,152",8
+Jamaica,JAM,113,"2,518,664",3
+Japan,JPN,5,"402,565",10
+Jordan,JOR,84,"2,687,973",4
+Kazakhstan,KAZ,71,"2,809,936",4
+Kenya,KEN,68,"2,814,935",4
+Kuwait,KWT,63,"2,861,212",5
+Kyrgyzstan,KGZ,108,"254,609",3
+Laos,LAO,82,"270,029",4
+Latvia,LVA,70,"2,809,949",4
+Lebanon,LBN,79,"2,716,853",4
+Lesotho,LSO,139,"2,277,266",2
+Liberia,LBR,143,"2,229,198",2
+Libya,LBY,154,"2,106,462",1
+Lithuania,LTU,54,"3,017,524",5
+Luxembourg,LUX,24,"3,629,998",8
+Madagascar,MDG,128,"2,389,411",2
+Malawi,MWI,97,"2,585,645",3
+Malaysia,MYS,41,"3,220,886",6
+Maldives,MDV,86,"2,665,471",4
+Mali,MLI,96,"2,590,265",3
+Malta,MLT,69,"2,813,784",4
+Mauritania,MRT,135,"2,331,071",2
+Mauritius,MUS,78,"2,732,952",4
+Mexico,MEX,51,"3,051,375",5
+Moldova,MDA,116,"2,455,908",3
+Mongolia,MNG,130,"2,373,274",2
+Montenegro,MNE,77,"2,745,632",4
+Morocco,MAR,109,"2,539,661",3
 Mozambique,MOZ,,,1
-Myanmar,MMR,137,2297734,2
+Myanmar,MMR,137,"2,297,734",2
 Namibia,NAM,,,1
-Nepal,NPL,114,2513022,3
-Netherlands,NLD,6,4019269,10
-New Zealand,NZL,15,3875644,9
+Nepal,NPL,114,"2,513,022",3
+Netherlands,NLD,6,"4,019,269",10
+New Zealand,NZL,15,"3,875,644",9
 Nicaragua,NIC,,,1
-Niger,NER,157,206995,1
-Nigeria,NGA,110,2532085,3
-North Macedonia,MKD,81,2704895,4
-Norway,NOR,21,3696623,8
-Oman,OMN,43,3196838,6
-Pakistan,PAK,122,2419197,3
-Panama,PAN,38,3275982,6
-Papua New Guinea,PNG,148,2174101,2
-Paraguay,PRY,74,2782299,4
-Peru,PER,83,2693249,4
-Philippines,PHL,60,2903657,5
-Poland,POL,28,3539533,8
-Portugal,PRT,23,3643184,8
-Qatar,QAT,30,3474205,7
-Romania,ROU,48,3118601,6
-Russia,RUS,75,2756889,4
-Rwanda,RWA,57,2974757,5
-Sao Tome and Principe,STP,89,2653207,4
-Saudi Arabia,SAU,55,3011041,5
-Senegal,SEN,141,2252378,2
-Serbia,SRB,65,2840953,4
-Sierra Leone,SLE,156,2078033,1
-Singapore,SGP,7,3996119,10
-Slovakia,SVK,53,302713,5
-Slovenia,SVN,35,331478,7
-Solomon Islands,SLB,104,257124,3
-Somalia,SOM,144,2208677,2
-South Africa,ZAF,33,337611,7
-South Korea,KOR,25,3612164,8
-Spain,ESP,17,3831336,9
-Sri Lanka,LKA,94,2597928,3
-Sudan,SDN,121,2427574,3
-Sweden,SWE,2,4052905,10
-Switzerland,CHE,13,3901372,9
-Syria,SYR,138,2295541,2
-Taiwan,TWN,27,3599722,8
-Tajikistan,TJK,134,2339558,2
+Niger,NER,157,"206,995",1
+Nigeria,NGA,110,"2,532,085",3
+North Macedonia,MKD,81,"2,704,895",4
+Norway,NOR,21,"3,696,623",8
+Oman,OMN,43,"3,196,838",6
+Pakistan,PAK,122,"2,419,197",3
+Panama,PAN,38,"3,275,982",6
+Papua New Guinea,PNG,148,"2,174,101",2
+Paraguay,PRY,74,"2,782,299",4
+Peru,PER,83,"2,693,249",4
+Philippines,PHL,60,"2,903,657",5
+Poland,POL,28,"3,539,533",8
+Portugal,PRT,23,"3,643,184",8
+Qatar,QAT,30,"3,474,205",7
+Romania,ROU,48,"3,118,601",6
+Russia,RUS,75,"2,756,889",4
+Rwanda,RWA,57,"2,974,757",5
+Sao Tome and Principe,STP,89,"2,653,207",4
+Saudi Arabia,SAU,55,"3,011,041",5
+Senegal,SEN,141,"2,252,378",2
+Serbia,SRB,65,"2,840,953",4
+Sierra Leone,SLE,156,"2,078,033",1
+Singapore,SGP,7,"3,996,119",10
+Slovakia,SVK,53,"302,713",5
+Slovenia,SVN,35,"331,478",7
+Solomon Islands,SLB,104,"257,124",3
+Somalia,SOM,144,"2,208,677",2
+South Africa,ZAF,33,"337,611",7
+South Korea,KOR,25,"3,612,164",8
+Spain,ESP,17,"3,831,336",9
+Sri Lanka,LKA,94,"2,597,928",3
+Sudan,SDN,121,"2,427,574",3
+Sweden,SWE,2,"4,052,905",10
+Switzerland,CHE,13,"3,901,372",9
+Syria,SYR,138,"2,295,541",2
+Taiwan,TWN,27,"3,599,722",8
+Tajikistan,TJK,134,"2,339,558",2
 Tanzania,TZA,,,1
-Thailand,THA,32,3411058,7
+Thailand,THA,32,"3,411,058",7
 Timor,TLS,,,1
-Togo,TGO,118,2447461,3
-Trinidad and Tobago,TTO,124,2415642,3
-Tunisia,TUN,105,2569547,3
-Turkey,TUR,47,3145809,6
-Turkmenistan,TKM,126,2409804,3
-Uganda,UGA,102,2575405,3
-Ukraine,UKR,66,2830178,4
-United Arab Emirates,ARE,11,3956437,9
-United Kingdom,GBR,9,3987057,10
-United States,USA,14,3885129,9
-Uruguay,URY,85,2685087,4
-Uzbekistan,UZB,99,2577256,3
-Venezuela,VEN,142,2229216,2
-Vietnam,VNM,39,327398,6
-Yemen,YEM,140,2265255,2
-Zambia,ZMB,111,2526313,3
-Zimbabwe,ZWE,152,2120121,1
+Togo,TGO,118,"2,447,461",3
+Trinidad and Tobago,TTO,124,"2,415,642",3
+Tunisia,TUN,105,"2,569,547",3
+Turkey,TUR,47,"3,145,809",6
+Turkmenistan,TKM,126,"2,409,804",3
+Uganda,UGA,102,"2,575,405",3
+Ukraine,UKR,66,"2,830,178",4
+United Arab Emirates,ARE,11,"3,956,437",9
+United Kingdom,GBR,9,"3,987,057",10
+United States,USA,14,"3,885,129",9
+Uruguay,URY,85,"2,685,087",4
+Uzbekistan,UZB,99,"2,577,256",3
+Venezuela,VEN,142,"2,229,216",2
+Vietnam,VNM,39,"327,398",6
+Yemen,YEM,140,"2,265,255",2
+Zambia,ZMB,111,"2,526,313",3
+Zimbabwe,ZWE,152,"2,120,121",1
