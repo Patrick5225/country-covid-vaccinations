@@ -19,7 +19,7 @@ This approach involves analyzing country vaccination data that contains informat
 **Logistics Performance Index (LPI):** https://datacatalog.worldbank.org/dataset/logistics-performance-index</br>
 
 # Results
-_For the reasoning behind the main idea of choosing the best countries to rollout the vaccinations, check out the methodlogy section below._
+_For the reasoning behind the main idea of choosing the best countries to rollout the vaccinations, check out the methodology section below._
 
 The top 5 countries (that haven't been vaccinated yet) with the highest final scores are:
 
@@ -39,3 +39,4 @@ Based on the final score and sensitivity ranges, we conclude that Iraq should be
 
 <img src = "https://user-images.githubusercontent.com/32801046/113507830-97401f80-9501-11eb-9fd8-dd005b5feca5.png" height=250 width=250>
 
+# Methodology
