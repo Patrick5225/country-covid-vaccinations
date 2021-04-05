@@ -25,11 +25,15 @@ The top 5 countries (that haven't been vaccinated yet) with the highest final sc
 
 | Country | Vaccination Efficiency | Population | LPI | Final Score | Sensitivity (15%)
 | --- | --- | --- | --- | --- | --- | 
-| Iraq | 0.5 | 0.9 | 0.6 | 0.68 | 0.66-0.69 | 
-| Togo | 0.6 | 0.7 | 0.7 | 0.66 | 0.65-0.66 | 
-| Tajikistan | 0.6 | 0.7 | 0.7 | 0.66 | 0.65-0.66 | 
-| Brunei | 0.9 | 0.3 | 0.8 | 0.64 | 0.62-0.68 | 
-| Sao Tome and Principe | 1.0 | 0.2 | 0.8 | 0.64 | 0.62-0.69 | 
+| Vietnam | 0.1 | 1.0 | 0.9 | 0.62 | 0.54-0.62 | 
+| Taiwan | 0.2 | 0.8 | 1.0 | 0.60 | 0.53-0.60 | 
+| Iraq | 0.5 | 0.9 | 0.2 | 0.60 | 0.60-0.65 | 
+| Kenya | 0.5 | 0.9 | 0.6 | 0.60 | 0.56-0.60 | 
+| Togo | 0.6 | 0.7 | 0.4 | 0.60 | 0.60-0.62 | 
+
+The final scores was calculated based on vaccination efficiency (daily vaccination rate), population, and Logistics Performance Index (LPI). The higher the value of a certain variable is, the higher the score is. Weights were given to each variable so that one variable could have more of an impact to the final score than other variables. The weights assigned to each variable was 40% to both vaccination efficiency and population, and 20% to LPI. Thus, vaccination efficiency and population will effect the final score more than LPI.
+
+However, rather than quickly jumping to the conclusion that we should choose Vietnam because it has the highest final score, it should be noted that there is still uncertainty in the results of the machine learning model that was used to calculate the final scores. To get a better representation of final scores, we use sensitivity analysis as a "what-if" analysis to check how sensitive the final scores are if there were changes in the input variables (vaccination effiency, population, and LPI). This will help assess the consistency of the final scores under different assumptions. As a result of using sensitivity analysis, Iraq has the best acceptable final score range of 0.60-0.65, which is more consistent than Vietnam's range of 0.54-0.62.
 
 Based on the final score and sensitivity ranges, we conclude that Iraq should be the next country to receive the rollout of COVID-19 vaccinations. Taking a closer look into the population and predicted vaccinations of Iraq, it is expected that on average, Iraq will have about 180,000 people vaccinated per day. With a population of 40.2 million people, we expect that 70% of the country's population will be vaccinated in 150 days from the first day they receive the vaccinations, and that the entire country will be vaccinated in 300 days.
 
