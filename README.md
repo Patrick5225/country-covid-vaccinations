@@ -29,7 +29,7 @@ Initially, the variables that were chosen were Gross Domestic Product (GDP) per 
 
 <img width="443" alt="Screen Shot 2021-04-04 at 10 57 50 PM" src="https://user-images.githubusercontent.com/32801046/113542478-39f7ad00-9599-11eb-8e42-e6647a79fc6d.png">
 
-_Note: There was an moderately positive correlation observed between daily vaccination with HDI and GDP, hence this is why we did not include HDI and GDP as one of the main variables._
+_Note: There was a moderately positive correlation observed between daily vaccination with HDI and GDP, so this is why we did not include HDI and GDP as one of the main variables._
 
 Hence, the final scores was calculated based on vaccination efficiency (daily vaccination), population, and LPI. The higher the value of a certain variable is, the higher the score is. Weights were given to each variable so that one variable could have more of an impact to the final score than other variables. The weights assigned to each variable was 40% to both vaccination efficiency and population, and 20% to LPI. Thus, vaccination efficiency and population will effect the final score more than LPI.
 
